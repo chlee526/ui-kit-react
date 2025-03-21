@@ -1,0 +1,1 @@
+export { BoardDefault } from './board';
